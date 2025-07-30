@@ -1,0 +1,69 @@
+struct Airplane1{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane2{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane3{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane4{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane5{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane6{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane7{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane8{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane9{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};
+
+struct Airplane10{
+int x;x坐标
+int y;y坐标
+float angle;仰角
+int speed;速度
+};

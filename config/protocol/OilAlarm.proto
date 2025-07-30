@@ -1,0 +1,20 @@
+struct FuelStatus{
+float oilRemaing;燃油剩余量
+float oilTotal;燃油总量
+};
+
+struct OilStatus{
+float oilRemaing;滑油剩余量
+float oilTotal;滑油总量
+};
+
+struct WaterStatus{
+float oilRemaing;淡水剩余量
+float oilTotal;淡水总量
+};
+
+struct Alarm{
+float rate1;1号发动机报警等级
+float rate2;2号发动机报警等级
+};
+

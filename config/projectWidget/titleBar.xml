@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titleBar>
+<title titleIcon="0xf1e9" titleIconSize="40" titleName="可视化开发平台" nameSize="20" />
+<item index="0" name="ProGenerate" displayName="项目模板" icon="0xf15b" iconColor="#FFFFFF"/>
+<item index="1" name="ProjectBuild" displayName="项目构建" icon="0xf013" iconColor="#FFFFFF"/>
+</titleBar>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titleBar>
+<title titleIcon="0xf1e9" titleIconSize="40" titleName="协议管理工具" nameSize="20" />
+<item index="0" name="ProjectBuild" displayName="协议构建" icon="0xf013" iconColor="#FFFFFF"/>
+</titleBar>
